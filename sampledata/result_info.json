@@ -1,1 +1,1 @@
-{"finished_at":"2022-08-16T17:10:57.686039Z","return_code":"SUCCESS","error_summary":{"num_reports_with_errors":null,"error_counts":[]},"return_message":"Aggregation job successfully processed"}
+{"error_summary":{"num_reports_with_errors":null,"error_counts":[]},"return_message":"Aggregation job successfully processed","finished_at":"2022-08-16T17:39:53.982920Z","return_code":"SUCCESS"}
